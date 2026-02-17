@@ -19,3 +19,4 @@ const ProductItem = ({ id, image, name, price }) => {
 
 export default ProductItem
 
+// 1:26:00 https://youtu.be/7E6um7NGmeE?t=5160
