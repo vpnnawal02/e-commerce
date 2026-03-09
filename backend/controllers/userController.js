@@ -60,3 +60,5 @@ const adminLogin = async (req, res) => {
 }
 
 export { loginUser, registerUser, adminLogin }
+
+// https://youtu.be/7E6um7NGmeE?list=PLjwm_8O3suyOFd8LTFqgw9v7MqPNtgINA&t=22405
